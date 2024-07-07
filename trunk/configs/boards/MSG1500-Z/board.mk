@@ -5,5 +5,5 @@
 ##################################################################
 
 CFLAGS += -DBOARD_MSG1500-Z
-BOARD_NUM_USB_PORTS=1
+BOARD_NUM_USB_PORTS=0
 
